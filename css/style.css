@@ -219,8 +219,8 @@ button {
 
 .read_more {
      display: inline-block;
-     background: #6dcff6;
-     color: #fff;
+     background: #060124;
+     color: #080a01;
      max-width: 215px;
      height: 61px;
      line-height: 61px;
@@ -233,7 +233,7 @@ button {
 
 .read_more:hover {
      background: #0e0b01;
-     color: #fff;
+     color: #1704c5;
      transition: ease-in all 0.5s;
 }
 
@@ -370,7 +370,7 @@ ul.email li i {
 /** banner_main **/
 
 #top_section {
-     background-image: url('../images/banner.jpg');
+     background-image: url('../images/prot4.png');
      background-size: cover;
      background-repeat: no-repeat;
      padding-top: 120px;
@@ -437,8 +437,8 @@ ul.email li i {
 }
 
 .banner_main .bluid .read_more:hover {
-     color: #fff;
-     background: #0e0b01;
+     color: #550917;
+     background: #a07e0d;
 }
 
 
